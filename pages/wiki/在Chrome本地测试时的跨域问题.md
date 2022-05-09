@@ -1,0 +1,1 @@
+使用**chrome.exe --disable-web-security**即可解决。
